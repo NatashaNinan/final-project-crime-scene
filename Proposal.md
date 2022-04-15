@@ -6,6 +6,7 @@ Neema Nayak,
 Natasha Ninan,
 Swapnil Kadakia
 
+Hello!
 **GitHub Repo URL**: https://github.com/CMU-IDS-2022/final-project-crime-scene
 
 Question: How have socioeconomic factors, particularly human well-being, influenced hate crime patterns in the United States over the years?
