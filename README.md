@@ -6,7 +6,7 @@
   * aaronho@andrew.cmu.edu
   * nninan2@andrew.cmu.edu
   * neeman@andrew.cmu.edu
-
+* **Summary Image**:
 ## Work distribution
 
 Update towards the end of the project.
